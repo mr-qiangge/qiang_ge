@@ -9,3 +9,4 @@ zset  有序集合
 hash
 设置redis.conf 配置文件 
 vim conf/redis.conf  
+ 发红包功能
