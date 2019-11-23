@@ -1,0 +1,11 @@
+srting字符串类型
+mset key value  一次设置多个key 和value值
+mget  一次获取多个key值
+incr 自增
+decr 自加
+append key 要追加值  追加
+substr  截取
+zset  有序集合
+hash
+设置redis.conf 配置文件 
+vim conf/redis.conf  
